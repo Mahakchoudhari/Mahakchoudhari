@@ -2,7 +2,7 @@
 Hey there 👋  <br>I'm Mahak Choudhari— a curious mind in the world of code 💻  <br><br>🔍 Exploring Artificial Intelligence & Machine Learning <br>⚙️ Working with Python, Scikit-learn & real-world datasets  <br>📈 Love turning data into insights  <br><br>
 
 
-## 🌐 Social Links:
+# 🌐 Social Links:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahak_choudhari01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahak-choudhari-a59a9a32a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/refactoring_my_life) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehakchoudhari786@gmail.com) 
 
 # 💻 Tech Stack:
