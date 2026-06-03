@@ -9,6 +9,7 @@ Hey there 👋  <br>I'm Mahak Choudhari— a curious mind in the world of code �
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%23FF6F61.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%238E24AA.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OOP](https://img.shields.io/badge/OOP-%23FF6F00.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
