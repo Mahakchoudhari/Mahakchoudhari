@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hey there 👋  <br>I'm Mahak Choudhari— a curious mind in the world of code 💻  <br><br>🔍 Exploring Artificial Intelligence & Machine Learning <br>⚙️ Working with Python, Scikit-learn & real-world datasets  <br>📈 Love turning data into insights  <br><br>
+# 💫 About Me
+
+Hey there 👋
+
+I'm **Mahak Choudhari** — a passionate learner exploring the fascinating world of **Artificial Intelligence, Deep Learning, and Computer Vision**. 🚀
+
+- 🧠 Building intelligent systems with **Deep Learning & Neural Networks**
+- 👁️ Exploring **Computer Vision**, Object Detection, Image Classification & CNNs
+- 🐍 Working with **Python, TensorFlow, PyTorch, and Scikit-learn**
+- 📊 Turning data into meaningful insights through **Machine Learning & Data Science**
+- ⚡ Continuously learning and experimenting with cutting-edge AI technologies
+- 🎯 Aspiring to create impactful AI solutions that solve real-world problems
+
+> *"Learning, building, and growing one model at a time."* ✨
+
 
 
 # 🌐 Social Links:
