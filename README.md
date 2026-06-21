@@ -23,6 +23,7 @@ I'm **Mahak Choudhari** — a passionate learner exploring the fascinating world
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%23FF6F61.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-%23FF9800.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![RNN](https://img.shields.io/badge/RNN-%23013249.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%238E24AA.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
