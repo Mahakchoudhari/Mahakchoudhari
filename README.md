@@ -11,7 +11,6 @@ I'm **Mahak Choudhari** — a passionate learner exploring the fascinating world
 - ⚡ Continuously learning and experimenting with cutting-edge AI technologies
 - 🎯 Aspiring to create impactful AI solutions that solve real-world problems
 
-> *"Learning, building, and growing one model at a time."* ✨
 
 
 
