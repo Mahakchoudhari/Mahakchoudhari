@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahak Choudhari</h1>
 
 <h3 align="center">
-Artificial Intelligence & Machine Learning Undergraduate | AI Enthusiast | Deep Learning | Computer Vision | LLM
+Artificial Intelligence & Machine Learning Undergraduate | AI Enthusiast | Deep Learning | Computer Vision | LLM | Gen AI
 </h3>
 
 <p align="center">
