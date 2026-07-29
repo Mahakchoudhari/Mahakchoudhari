@@ -104,7 +104,6 @@ Artificial Intelligence & Machine Learning Undergraduate | AI Enthusiast | Deep 
 |---------|-------------|
 | 🚕 NYC Taxi Prediction | XGBoost + Streamlit |
 | 🩺 Breast Cancer Prediction | ML Classification |
-| 🤖 AI Manufacturing Copilot | Industry AI Project |
 | 🌐 Portfolio Website | Personal Portfolio |
 
 ---
