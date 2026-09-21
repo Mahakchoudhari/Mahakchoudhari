@@ -21,6 +21,7 @@ Artificial Intelligence & Machine Learning Undergraduate | AI Enthusiast | Deep 
 - ⚡ Learning FastAPI & MLOps
 - 💻 Practicing DSA in C++
 
+
 ---
 
 # 🌐 Connect with Me
@@ -104,7 +105,7 @@ Artificial Intelligence & Machine Learning Undergraduate | AI Enthusiast | Deep 
 |---------|-------------|
 | 🚕 NYC Taxi Prediction | XGBoost + Streamlit |
 | 🩺 Breast Cancer Prediction | ML Classification |
-| 🌐 Portfolio Website | Personal Portfolio |
+
 
 ---
 
